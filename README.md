@@ -21,7 +21,7 @@ $ pnpm install
 $ pnpm run start:dev
 ```
 
-## API example
+## API examples
 ```bash
 http://localhost:3000/allDocs
 http://localhost:3000/allDocs?country=Brazil
